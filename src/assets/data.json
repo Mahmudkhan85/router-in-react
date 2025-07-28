@@ -1,0 +1,107 @@
+{
+    "shayri":[
+     
+  {
+    "id": 1,
+    "writer": "Mirza Ghalib",
+    "quote": "Dil-e-naadaan tujhe hua kya hai, aakhir is dard ki dawa kya hai?"
+  },
+  {
+    "id": 2,
+    "writer": "Rahul",
+    "quote": "Woh khwab hi kya jo aankhon mein bas kar toot jaye."
+  },
+  {
+    "id": 3,
+    "writer": "Anonymous",
+    "quote": "Mohabbat mein nahi hai farq jeene aur marne ka."
+  },
+  {
+    "id": 4,
+    "writer": "Javed Akhtar",
+    "quote": "Har kisi ko mukammal jahaan nahi milta."
+  },
+  {
+    "id": 5,
+    "writer": "Faiz Ahmed Faiz",
+    "quote": "Gulon mein rang bhare, baad-e-naubahar chale."
+  },
+  {
+    "id": 6,
+    "writer": "Wasim Barelvi",
+    "quote": "Kisi ke vaaste raahon mein kaante mat bichao, ho sakta hai kal aapko bhi wahan se guzarna pade."
+  },
+  {
+    "id": 7,
+    "writer": "Ahmad Faraz",
+    "quote": "Ranjish hi sahi, dil hi dukhane ke liye aa."
+  },
+  {
+    "id": 8,
+    "writer": "Gulzar",
+    "quote": "Dil dhoondta hai phir wahi fursat ke raat din."
+  },
+  {
+    "id": 9,
+    "writer": "Mir Taqi Mir",
+    "quote": "Ibtidaa-e-ishq hai rota hai kya, aage aage dekhiye hota hai kya."
+  },
+  {
+    "id": 10,
+    "writer": "Mirza Ghalib",
+    "quote": "Hazaron khwahishein aisi ke har khwahish pe dam nikle."
+  },
+  {
+    "id": 11,
+    "writer": "Majrooh Sultanpuri",
+    "quote": "Main akela hi chala tha janib-e-manzil magar, log saath aate gaye aur kaarvaan banta gaya."
+  },
+  {
+    "id": 12,
+    "writer": "Kaifi Azmi",
+    "quote": "Tum itna jo muskura rahe ho, kya gham hai jisko chhupa rahe ho?"
+  },
+  {
+    "id": 13,
+    "writer": "Nida Fazli",
+    "quote": "Safar mein dhoop to hogi, jo chal sako to chalo."
+  },
+  {
+    "id": 14,
+    "writer": "Rahul",
+    "quote": "Aansu bhi kabhi kabhi dil halka kar dete hain."
+  },
+  {
+    "id": 15,
+    "writer": "Anonymous",
+    "quote": "Tera naam le kar jee rahe hain, dard ko khushi keh rahe hain."
+  },
+  {
+    "id": 16,
+    "writer": "Mir Taqi Mir",
+    "quote": "Dekh to dil ke jaan se uthta hai, yeh dhuaan sa kahaan se uthta hai."
+  },
+  {
+    "id": 17,
+    "writer": "Javed Akhtar",
+    "quote": "Kabhi kisi ko mukammal jahaan nahi milta."
+  },
+  {
+    "id": 18,
+    "writer": "Faiz Ahmed Faiz",
+    "quote": "Bol ke lab azaad hain tere."
+  },
+  {
+    "id": 19,
+    "writer": "Mirza Ghalib",
+    "quote": "Ye na thi hamari qismat ke visal-e-yaar hota."
+  },
+  {
+    "id": 20,
+    "writer": "Ahmad Faraz",
+    "quote": "Suna hai log use aankh bhar ke dekhte hain."
+  }
+    ]
+
+  
+}

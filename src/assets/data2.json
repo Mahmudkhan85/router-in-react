@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "jobTitle": "Frontend Developer",
+      "location": "San Francisco, CA",
+      "salary": "$110,000"
+    },
+    {
+      "id": 2,
+      "jobTitle": "Backend Developer",
+      "location": "New York, NY",
+      "salary": "$115,000"
+    },
+    {
+      "id": 3,
+      "jobTitle": "Full Stack Developer",
+      "location": "Austin, TX",
+      "salary": "$105,000"
+    },
+    {
+      "id": 4,
+      "jobTitle": "DevOps Engineer",
+      "location": "Seattle, WA",
+      "salary": "$120,000"
+    },
+    {
+      "id": 5,
+      "jobTitle": "Data Scientist",
+      "location": "Boston, MA",
+      "salary": "$125,000"
+    },
+    {
+      "id": 6,
+      "jobTitle": "AI/ML Engineer",
+      "location": "Palo Alto, CA",
+      "salary": "$140,000"
+    },
+    {
+      "id": 7,
+      "jobTitle": "Cloud Architect",
+      "location": "Chicago, IL",
+      "salary": "$130,000"
+    },
+    {
+      "id": 8,
+      "jobTitle": "Cybersecurity Analyst",
+      "location": "Washington, D.C.",
+      "salary": "$118,000"
+    },
+    {
+      "id": 9,
+      "jobTitle": "Mobile App Developer",
+      "location": "Denver, CO",
+      "salary": "$108,000"
+    },
+    {
+      "id": 10,
+      "jobTitle": "UI/UX Designer",
+      "location": "Los Angeles, CA",
+      "salary": "$100,000"
+    }
+  ]
+}

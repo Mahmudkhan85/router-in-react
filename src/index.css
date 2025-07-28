@@ -1,0 +1,282 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 100%;
+  padding: 15px 8%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 0 2px 9px 0px rgba(0, 0, 0, 0.3);
+}
+
+.navbar ul li {
+  display: inline-block;
+  font-size: 18px;
+  margin: 5px 10px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.navbar img {
+  width: 110px;
+}
+
+.navbar button {
+  outline: 0;
+  border: 0;
+  padding: 10px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #1e1e40;
+  color: #fff;
+  border-radius: 30px;
+}
+
+.container {
+  width: 100%;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  color: #1e1e40;
+}
+
+a.active {
+  color: #ff8900;
+}
+
+.navbar button:hover {
+  background: #ff8900;
+}
+
+.contact_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 20px;
+  gap: 20px;
+}
+
+.contact_buttons button {
+  outline: 0;
+  border: 0;
+  color: #fff;
+  background-color: #1e1e40;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+
+.not_found button {
+  outline: 0;
+  border: 0;
+  color: #fff;
+  background-color: #1e1e40;
+  padding: 8px 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.contact_buttons button.active {
+  background-color: #f29722;
+}
+
+.contact_info {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px 30px;
+  background: #f9f9f9;
+  border-left: 5px solid #f29722;
+  border-radius: 8px;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact_info div {
+  margin-bottom: 15px;
+  line-height: 1.6;
+  font-size: 16px;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.contact_info div:hover {
+  color: #db8a25;
+  transform: translateX(5px);
+}
+
+.contact_form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 25px 30px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.contact_form input[type="text"],
+.contact_form input[type="email"],
+.contact_form input[type="tel"] {
+  width: 100%;
+  padding: 12px 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: border-color 0.3s ease;
+}
+
+.contact_form input[type="text"]:focus,
+.contact_form input[type="email"]:focus,
+.contact_form input[type="tel"]:focus {
+  border-color: #db8a25;
+  outline: none;
+}
+
+.contact_form input[type="submit"] {
+  width: 100%;
+  padding: 12px 15px;
+  background-color: #fb900a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact_form input[type="submit"]:hover {
+  background-color: #db8a25;
+}
+
+.Shayri_box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  gap: 20px;
+  background: #f9f9f9;
+}
+
+.single_shayri_box {
+  width: 100%;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px 25px;
+  position: relative;
+  font-family: 'Georgia', serif;
+  transition: all 0.3s ease;
+}
+
+.single_shayri_box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.single_shayri_box span {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #999;
+}
+
+.single_shayri_box p {
+  margin-top: 30px;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.single_shayri_box h2 {
+  margin-top: 20px;
+  font-size: 16px !important;
+  color: #666;
+  text-align: right !important;
+  /* Writer name aligned to end */
+  font-style: italic;
+}
+
+.shayri {
+  margin-top: 100px;
+}
+
+.shayri h2 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.shayri p {
+  text-align: center;
+  font-size: inherit;
+  margin-bottom: 40px;
+}
+
+
+.jobs{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px; 
+  color: #000;
+  padding: 40px 0;
+  width: 100%;
+}
+
+.jobs a{
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+   background: #efefef;
+   display: inline-block;
+   padding: 10px 10px;
+   flex: 1;
+}
+
+  
+.job_details{
+  padding: 50px 0;
+}
+
+.job_details p{
+  max-width: 800px;
+  padding: 10px 0;
+}
+
+.job_details button{
+  background-color: #000;
+  color: #fff;
+  padding: 5px 15px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}
